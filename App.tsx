@@ -44,6 +44,7 @@ const Section: React.FC<
         ]}>
         {title}
       </Text>
+      <View><Text>Hello, Stranger</Text></View>
       <Text
         style={[
           styles.sectionDescription,
